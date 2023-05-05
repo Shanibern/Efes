@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/static/rss.xsl"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>אפס בקולנוע ישראלי הפרקים האבודים</title>
+    <link>https://www.facebook.com/efesbekolnoa</link>
+    <atom:link href="https://pinecast.com/feed/efesbekolnoa" rel="self" type="application/rss+xml" />
+    <language>he-IL</language>
+    <description><![CDATA[הקומיקאי יונתן עמירן ("מה נסגר?", "צחוק בצד", "קיבלתי תכנית אירוח") הבין שהוא כמעט לא ראה סרטים ישראליים. אז כל שבוע חברים שלו באים לעזור לו להשלים פערים.]]></description>
+    <itunes:owner>
+        <itunes:name>יונתן עמירן</itunes:name>
+        <itunes:email>amiranyonatan@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:image href="https://storage.pinecast.net/podcasts/covers/dfb45227-80ac-4974-b518-322cbbf97928/efes.jpg" />
+    <image>
+      <title>אפס בקולנוע ישראלי הפרקים האבודים</title>
+      <link>https://www.facebook.com/efesbekolnoa</link>
+      <url>https://storage.pinecast.net/podcasts/covers/dfb45227-80ac-4974-b518-322cbbf97928/efes.jpg</url>
+    </image>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Comedy">
+        <itunes:category text="Comedy Interviews" />
+    </itunes:category>
+    <itunes:category text="TV &amp; Film">
+        <itunes:category text="Film Reviews" />
+    </itunes:category>
+
+    <item>
+      <title>פרק 16 - "אסקימו לימון 4: ספיחס" עם אמיר גליקמן</title>
+      <link>https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/4a380621-3a12-41e0-bf41-b231cba456ac/sapichespod.mp3</link>
+      <guid>https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/4a380621-3a12-41e0-bf41-b231cba456ac/sapichespod.mp3</guid>
+      <enclosure url="https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/4a380621-3a12-41e0-bf41-b231cba456ac/sapichespod.mp3" length="51283585" type="audio/mpeg" />
+      <pubDate>Thu, 05 May 2022 07:00:05 -0000</pubDate>
+      <itunes:duration>00:53:24</itunes:duration>
+      <description><![CDATA[אמיר גליקמן ("צחוק בצד") חוזר לפרק הראשון של העונה השנייה, לדבר על המערכון שלו בהשתתפות יונתן- "טוטי פרוטי" והסרט הרביעי בסדרת "אסקימו לימון"- "ספיחס". הם מדברים על חוויות מהצבא, מלחמת ישראל-נורווגיה והשחקנית הכי מצחיקה בעולם. וגם: יעקוב רובינשטיין עושה חיקוי של פרסי!]]></description>
+    </item>
+
+    <item>
+      <title>פרק 15 - "צ'רלי וחצי" עם אסי גל</title>
+      <link>https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/9954d85d-c995-4808-9375-fe523e722c9f/charliepod.mp3</link>
+      <guid>https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/9954d85d-c995-4808-9375-fe523e722c9f/charliepod.mp3</guid>
+      <enclosure url="https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/9954d85d-c995-4808-9375-fe523e722c9f/charliepod.mp3" length="43477762" type="audio/mpeg" />
+      <pubDate>Wed, 30 Jun 2021 06:00:58 -0000</pubDate>
+      <itunes:duration>00:45:17</itunes:duration>
+      <description><![CDATA[אסי גל ("בלייזר") מגיע לפודקאסט לדבר על "צ'רלי וחצי" עם יונתן. הם מדברים על מבטאים, משחקים משונים עם ארנב וחורי העלילה הרבים בסרט. וגם: יעקוב רובינשטיין חושף הכול!]]></description>
+    </item>
+
+    <item>
+      <title>פרק 14 - "שמיכה חשמלית ושמה משה" עם שי רינגל</title>
+      <link>https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/4f87fc34-f2e3-4095-ac04-fb6f37099779/blanketpod.mp3</link>
+      <guid>https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/4f87fc34-f2e3-4095-ac04-fb6f37099779/blanketpod.mp3</guid>
+      <enclosure url="https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/4f87fc34-f2e3-4095-ac04-fb6f37099779/blanketpod.mp3" length="57417238" type="audio/mpeg" />
+      <pubDate>Wed, 23 Jun 2021 06:00:56 -0000</pubDate>
+      <itunes:duration>00:59:48</itunes:duration>
+      <description><![CDATA[שי רינגל ("טיים אאוט") חוזר לפודקאסט לדבר על הקומדיה השחורה של אסי דיין "שמיכה חשמלית ושמה ומשה" ועל טרילוגיית הניינטיז שלו שכללה גם את "החיים על פי אגפא" ו"מר באום". הם מדברים על סמים, אלגוריות והפרק של "נווה חמציצים" שאף פעם לא ראיתם. וגם: יעקוב רובינשטיין מקבל אגרוף לפנים!]]></description>
+    </item>
+
+    <item>
+      <title>פרק 13 - "השחקנים" עם אורי ברד</title>
+      <link>https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/7e7e8b27-311b-48c0-a379-53b3ea4179c5/actorspod.mp3</link>
+      <guid>https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/7e7e8b27-311b-48c0-a379-53b3ea4179c5/actorspod.mp3</guid>
+      <enclosure url="https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/7e7e8b27-311b-48c0-a379-53b3ea4179c5/actorspod.mp3" length="51181837" type="audio/mpeg" />
+      <pubDate>Wed, 16 Jun 2021 06:00:28 -0000</pubDate>
+      <itunes:duration>00:53:18</itunes:duration>
+      <description><![CDATA[אורי ברד ("רון") מגיע לפודקאסט חמוש בידע הרחב שלו על קולנוע ישראלי לדבר עם יונתן על הסרט האיזוטרי "השחקנים" בכיכובם של רמי הויברגר, יעל הדר ועוד. הם מדברים על הקשר של הסרט ל"חזרות", סרטי מתיחות והאם תיאטרון הוא מדיום ראוי? וגם: יעקוב רובינשטיין מסבך את העניינים.]]></description>
+    </item>
+
+    <item>
+      <title>פרק 12 - "מבצע סבתא" עם טס השילוני</title>
+      <link>https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/236def77-a197-4d08-a5e6-ef0c2afd4c12/savtapod.mp3</link>
+      <guid>https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/236def77-a197-4d08-a5e6-ef0c2afd4c12/savtapod.mp3</guid>
+      <enclosure url="https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/236def77-a197-4d08-a5e6-ef0c2afd4c12/savtapod.mp3" length="35042269" type="audio/mpeg" />
+      <pubDate>Wed, 09 Jun 2021 06:03:56 -0000</pubDate>
+      <itunes:duration>00:36:29</itunes:duration>
+      <description><![CDATA[טס השילוני ("האחיות המוצלחות שלי") מצטרפת ליונתן לדבר על סרט הקאלט הישראלי "מבצע סבתא" בבימויו של דרור שאול ובכיכובם של רמי הויברגר, עמי סמולרצ'יק וצח שפיצן. הם מדברים על הקשר של הסרט ל"תרגיע" ו-ווס אנדרסון, הייצוג הנשי בסרט ואיך האח הקטן בסרט חשף את פרשיית שרה נתניהו. וגם: יעקוב רובינשטיין עושה פלאג לקיקסטארטר.]]></description>
+    </item>
+
+    <item>
+      <title>פרק 11 - "גבעת חלפון אינה עונה" עם גיא אדלר</title>
+      <link>https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/44d42e41-c085-4c9d-aee8-7238adca22f2/halfonep.mp3</link>
+      <guid>https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/44d42e41-c085-4c9d-aee8-7238adca22f2/halfonep.mp3</guid>
+      <enclosure url="https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/44d42e41-c085-4c9d-aee8-7238adca22f2/halfonep.mp3" length="43102045" type="audio/mpeg" />
+      <pubDate>Wed, 02 Jun 2021 06:00:49 -0000</pubDate>
+      <itunes:duration>00:44:53</itunes:duration>
+      <description><![CDATA[גיא אדלר ("פעם בשבוע עם תם אהרון") סוף סוף מגיע לפודקאסט לדבר על הקלאסיקה שהיא "גבעת חלפון אינה עונה" בכיכובם של שלישיית הגשש החיוור ובבימויו של אסי דיין. גיא ויונתן מדברים על ההיגיון הרופף בסרט, יחסי עדות ותצוגת .  המשחק המדהימה של טוביה צפיר בתור מפקד עייף וחרמן. וגם יונתן מציג את חיקוי סרג'יו הכושל שלו ויעקוב רובינשטיין מספר על חברותו עם אסי דיין.]]></description>
+    </item>
+
+    <item>
+      <title>פרק 10 - "סופרבוי" עם מעיין אור-גיל</title>
+      <link>https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/9df74378-e465-4dff-86ff-8e1c44772b37/superboyep.mp3</link>
+      <guid>https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/9df74378-e465-4dff-86ff-8e1c44772b37/superboyep.mp3</guid>
+      <enclosure url="https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/9df74378-e465-4dff-86ff-8e1c44772b37/superboyep.mp3" length="37726498" type="audio/mpeg" />
+      <pubDate>Wed, 26 May 2021 06:18:00 -0000</pubDate>
+      <itunes:duration>00:39:17</itunes:duration>
+      <description><![CDATA[מעיין אור-גיל ("רון") מצטרפת ליונתן לדבר על יצירת המופת של חנוך רוזן "סופר בוי" בכיכובו של תום אבני. הם מדברים על כוחות על אקראיים, שודדי בנק שעושים ראפ והופעת האורח המשוגעת של דודו טופז. וגם: יעקוב רובינשטיין חושף איך הוא למד ספרדית.]]></description>
+    </item>
+
+    <item>
+      <title>פרק 9 - "חמש חמש" עם יונתן צוריה</title>
+      <link>https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/37e95c01-0454-4a2f-9d43-e9b94d0a538a/hameshep.mp3</link>
+      <guid>https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/37e95c01-0454-4a2f-9d43-e9b94d0a538a/hameshep.mp3</guid>
+      <enclosure url="https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/37e95c01-0454-4a2f-9d43-e9b94d0a538a/hameshep.mp3" length="42403570" type="audio/mpeg" />
+      <pubDate>Wed, 12 May 2021 06:00:10 -0000</pubDate>
+      <itunes:duration>00:44:09</itunes:duration>
+      <description><![CDATA[יונתן צוריה ("עין הדג") מגיע לפודקאסט לדבר על המחזמר "חמש חמש" בכיכובם של חצי מהקאסט של הלהקה, דליק ווליניץ ולילך גליקסמן. הם מדברים על השירים המעולים, סצינה רומנטית של חליבת פרה ומה משמעות שם הסרט. וגם: איך יעקוב רובינשטיין פוטר גם מהסרט הזה?]]></description>
+    </item>
+
+    <item>
+      <title>פרק 8 - "הלהקה" עם מאיה פז</title>
+      <link>https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/0128aa95-139b-448b-82a0-ed8e5565ff11/troupepod.mp3</link>
+      <guid>https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/0128aa95-139b-448b-82a0-ed8e5565ff11/troupepod.mp3</guid>
+      <enclosure url="https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/0128aa95-139b-448b-82a0-ed8e5565ff11/troupepod.mp3" length="41780572" type="audio/mpeg" />
+      <pubDate>Wed, 05 May 2021 06:00:58 -0000</pubDate>
+      <itunes:duration>00:43:31</itunes:duration>
+      <description><![CDATA[מאיה פז ("טיים אאוט", "סקס והעיר והעיר") מגיעה לפודקאסט לדבר על "הלהקה". היא ויונתן מדברים על השירים המעולים, מתיחות ויונתן חושף למה עלה למשפט בצבא. וגם: יעקוב רובינשטיין מספר איך כמעט שיחק את בזוקה בסרט.]]></description>
+    </item>
+
+    <item>
+      <title>פרק 7 - "תעלת בלואמילך" עם אביתר חלימי</title>
+      <link>https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/b53e50fb-a9c4-41e5-af53-4065452b4b64/Blaumilchep.mp3</link>
+      <guid>https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/b53e50fb-a9c4-41e5-af53-4065452b4b64/Blaumilchep.mp3</guid>
+      <enclosure url="https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/b53e50fb-a9c4-41e5-af53-4065452b4b64/Blaumilchep.mp3" length="43008637" type="audio/mpeg" />
+      <pubDate>Wed, 28 Apr 2021 06:05:41 -0000</pubDate>
+      <itunes:duration>00:44:47</itunes:duration>
+      <description><![CDATA[אביתר חלימי ("היום בלילה עם גורי אלפי", "ץ סופית") מצטרף ליונתן לדבר על הקומדיה המשוגעת של אפרים קישון "תעלת בלאומילך". הם מדברים על הסאטירה שבסרט, המבטאים הרבים ויונתן מציג דמות חדשה. וגם:  יעקוב רובינשטיין מספר איך פגש את אפרים קישון!]]></description>
+    </item>
+
+    <item>
+      <title>פרק 6 - "מרס תורכי" עם זיו הרמלין-שד"ר</title>
+      <link>https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/00931505-5f19-41f8-bcb4-9bfc8acfb1b8/marsep.mp3</link>
+      <guid>https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/00931505-5f19-41f8-bcb4-9bfc8acfb1b8/marsep.mp3</guid>
+      <enclosure url="https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/00931505-5f19-41f8-bcb4-9bfc8acfb1b8/marsep.mp3" length="58712857" type="audio/mpeg" />
+      <pubDate>Wed, 21 Apr 2021 06:00:00 -0000</pubDate>
+      <itunes:duration>01:01:09</itunes:duration>
+      <description><![CDATA[זיו הרמלין-שד"ר מההסכת "דיסני-פורמציה" מצטרף אל יונתן לדבר על "מרס תורכי" סרט ישראלי שיונתן אשכרה נהנה ממנו. הם מדברים על השפעות קולנועיות, חתולות משוגעות ויונתן עושה הרבה חיקויים של גל זייד. ואל תפספסו את האורח המיוחד שבא בסוף הפרק!]]></description>
+    </item>
+
+    <item>
+      <title>פרק 5 - "בלוז לחופש הגדול" עם נעמה רק</title>
+      <link>https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/d897f1ec-ea6a-4f8e-b993-dd3797e1cfc3/bluesep.mp3</link>
+      <guid>https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/d897f1ec-ea6a-4f8e-b993-dd3797e1cfc3/bluesep.mp3</guid>
+      <enclosure url="https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/d897f1ec-ea6a-4f8e-b993-dd3797e1cfc3/bluesep.mp3" length="49788640" type="audio/mpeg" />
+      <pubDate>Thu, 15 Apr 2021 06:00:00 -0000</pubDate>
+      <itunes:duration>00:51:51</itunes:duration>
+      <description><![CDATA[נעמה רק ("עין הדג", "רק אומרת") מצטרפת ליונתן לדבר על "בלוז לחופש הגדול" מלודרמה מרגשת על ישראל והצבא בכיכובם של אבא של קופיקו וצ'סטר צ'יטה. הם מדברים על חוויות מהצבא, גרפיטי ולמה דור צויגנבום נשמע כמו משה פרסטר. וגם: יעקוב רובינשטיין חושף איך נחתך מהסרט!]]></description>
+    </item>
+
+    <item>
+      <title>פרק 4 - "קזבלן" עם שי רינגל</title>
+      <link>https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/67a2e994-c87b-4b55-b4b2-ecd13d456e55/kazablanep.mp3</link>
+      <guid>https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/67a2e994-c87b-4b55-b4b2-ecd13d456e55/kazablanep.mp3</guid>
+      <enclosure url="https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/67a2e994-c87b-4b55-b4b2-ecd13d456e55/kazablanep.mp3" length="66802657" type="audio/mpeg" />
+      <pubDate>Wed, 07 Apr 2021 06:00:00 -0000</pubDate>
+      <itunes:duration>01:09:34</itunes:duration>
+      <description><![CDATA[שי רינגל ("טיים אאוט") מצטרף ליונתן לדבר על המחזמר הישראלי הקלאסי "קזבלן". הפרק גדוש בסיפורי מנחם גולן, חיקויים של יהורם גאון ושיחות על אשכנזים רעים, גפילטע פיש ואריה מוסקונה. וגם: יעקוב רובינשטיין חושף את תפקידו שנחתך מ"קזבלן".]]></description>
+    </item>
+
+    <item>
+      <title>פרק 3 - "אסקימו לימון" עם אמיר גליקמן</title>
+      <link>https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/af7a21b9-aca7-4d21-b50b-97c1e9b95de9/eskimopodwot.mp3</link>
+      <guid>https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/af7a21b9-aca7-4d21-b50b-97c1e9b95de9/eskimopodwot.mp3</guid>
+      <enclosure url="https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/af7a21b9-aca7-4d21-b50b-97c1e9b95de9/eskimopodwot.mp3" length="44454793" type="audio/mpeg" />
+      <pubDate>Wed, 31 Mar 2021 06:00:00 -0000</pubDate>
+      <itunes:duration>00:46:18</itunes:duration>
+      <description><![CDATA[אמיר גליקמן ("לילה טוב עם אסף הראל", "צחוק בצד") מגיע לעשות סולחה עם יונתן ולדבר על קומדיית הנעורים/טרגדיה/ חלום בלהות שהוא אסקימו לימון. השניים מדברים על כישורי המשחק המפתיעים של צחי נוי, החיים בשנות החמישים וךוחוסר האירוטיות של הסרט. וגם: יעקוב רובינשטיין חושף איך התחיל הסכסוך בינו לבין צחי נוי.]]></description>
+    </item>
+
+    <item>
+      <title>פרק 2 - "שירת הסירנה" עם עמית הרשקוביץ</title>
+      <link>https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/e09b2a4a-39f1-4eb1-8cdc-1399ebb8c089/sirenaep.mp3</link>
+      <guid>https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/e09b2a4a-39f1-4eb1-8cdc-1399ebb8c089/sirenaep.mp3</guid>
+      <enclosure url="https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/e09b2a4a-39f1-4eb1-8cdc-1399ebb8c089/sirenaep.mp3" length="60728424" type="audio/mpeg" />
+      <pubDate>Wed, 24 Mar 2021 06:00:00 -0000</pubDate>
+      <itunes:duration>01:03:15</itunes:duration>
+      <description><![CDATA[עמית הרשקוביץ ("לילה טוב עם אסף הראל", "ארץ נהדרת") לוקחת את יונתן לשנות התשעים לדבר על הקומדיה הרומנטית "שירת הסירנה" בבימויו של איתן פוקס, מבוסס על רב המכר של עירית לינור ובכיכובם של דלית קהן ויאיר לפיד. הם מדברים על מלחמת המפרץ, הניינטיז, זבנג ולמה לאיר לפיד יש תמונות של עצמו בבית. וגם יעקוב רובינשטיין חושף איך פוטר מהסרט.]]></description>
+    </item>
+
+    <item>
+      <title>פרק 1 - "מציצים" עם דור כאהן</title>
+      <link>https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/2f84dbe7-7a10-4bb3-862c-ced26f710fdb/metzizim_episode_done.mp3</link>
+      <guid>https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/2f84dbe7-7a10-4bb3-862c-ced26f710fdb/metzizim_episode_done.mp3</guid>
+      <enclosure url="https://storage.pinecast.net/podcasts/56819c7e-6579-409f-840b-caceead311ac/audio/2f84dbe7-7a10-4bb3-862c-ced26f710fdb/metzizim_episode_done.mp3" length="46730544" type="audio/mpeg" />
+      <pubDate>Mon, 15 Mar 2021 06:00:00 -0000</pubDate>
+      <itunes:duration>00:48:40</itunes:duration>
+      <description><![CDATA[בפרק הראשון של הפודקאסט החדש שלו, יונתן עמירן מזמין את דור כאהן ("חווית הדור כאהן", "ארץ נהדרת", "טייכר וזרחוביץ'") לדבר על אחד הסרטים הישראלים האהובים עליו: מציצים! הם מדברים על הצצה כמקצוע, שנות השבעים ומשפטים בעירום. וגם: דור עושה את חיקוי אריק איינשטיין שלו, איך יעקוב רובינשטיין היה מעורב בסרט ומה אבא של יונתן חשב עליו.]]></description>
+    </item>
+  </channel>
+</rss>
