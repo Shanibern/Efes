@@ -12,11 +12,11 @@
         <itunes:email>amiranyonatan@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>yes</itunes:explicit>
-    <itunes:image href="https://raw.githubusercontent.com/Shanibern/Efes/0e04da5a14444bc3da1f769222a09dd248cd4a5a/efes.png" />
+    <itunes:image href="https://raw.githubusercontent.com/Shanibern/Efes/main/efes.png" />
     <image>
       <title>אפס בקולנוע ישראלי הפרקים האבודים</title>
       <link>https://www.facebook.com/efesbekolnoa</link>
-      <url>https://raw.githubusercontent.com/Shanibern/Efes/0e04da5a14444bc3da1f769222a09dd248cd4a5a/efes.png</url>
+      <url>https://raw.githubusercontent.com/Shanibern/Efes/main/efes.png</url>
     </image>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Comedy">
